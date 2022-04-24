@@ -1,1 +1,4 @@
-# FASTEST-TIKTOK-SHARE-BOT-
+-Download the file from GITHUB
+-Run the .exe file
+-Copy and paste TIKTOK link 
+-180 shares a second!
